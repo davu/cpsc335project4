@@ -1,8 +1,8 @@
 CPSC 335- Spring 2013
 ======================================
-    Project #4— minimum spanning trees
+		Project #4— minimum spanning trees
 ======================================
-                          Introduction
+							Introduction
 ======================================
 In this project you will implement an efficient minimum spanning tree algorithm.
 This involves implementing a graph representation and using an
